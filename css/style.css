@@ -1,0 +1,25 @@
+body{
+    height: 9000px;
+}
+
+.hide{
+    display: none;
+}
+#first{
+    height: 768px;
+    background-color: red;
+}
+
+#top_btn{
+    width: 70px;
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    text-align: center;
+    height: 70px;
+    background-color: rgb(9, 9, 106);
+    color: #fff;
+    border-radius: 50%;
+    cursor: pointer;
+    display: none;
+}
